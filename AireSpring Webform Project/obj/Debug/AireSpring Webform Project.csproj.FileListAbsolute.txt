@@ -1,0 +1,62 @@
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\ApplicationInsights.config
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\csc.exe
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\csc.exe.config
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\csc.rsp
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\csi.exe
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\csi.rsp
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\System.AppContext.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\System.Collections.Immutable.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\System.IO.FileSystem.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\vbc.exe
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\vbc.exe.config
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\vbc.rsp
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\VBCSCompiler.exe
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\roslyn\VBCSCompiler.exe.config
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\AireSpring Webform Project.dll.config
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\AireSpring Webform Project.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\AireSpring Webform Project.pdb
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Antlr3.Runtime.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Microsoft.AI.Web.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Microsoft.AI.WindowsServer.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Microsoft.ApplicationInsights.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Microsoft.Web.Infrastructure.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Newtonsoft.Json.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\System.Web.Optimization.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\WebGrease.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\System.Web.Optimization.xml
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Antlr3.Runtime.pdb
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Newtonsoft.Json.xml
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Microsoft.ApplicationInsights.xml
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Microsoft.AI.WindowsServer.xml
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\bin\Microsoft.AI.Web.xml
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\obj\Debug\AireSpring Webform Project.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\obj\Debug\AireSpring Webform Project.dll
+c:\users\andrew\documents\visual studio 2017\Projects\AireSpring Webform Project\AireSpring Webform Project\obj\Debug\AireSpring Webform Project.pdb
